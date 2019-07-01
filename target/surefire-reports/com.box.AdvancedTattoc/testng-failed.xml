@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.box.AdvancedTattoc]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.box.AdvancedTattoc">
+        <methods>
+          <include name="dropDown"/>
+          <include name="setupSuite"/>
+        </methods>
+      </class> <!-- com.box.AdvancedTattoc -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.box.AdvancedTattoc] -->
